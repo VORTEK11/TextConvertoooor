@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+pdyZdk/1cGH9o+BeCsUL/jvk52IDha7/gnGVcOPyjrMXln3RfwGLem2kib1fRZEdpsAzEYnG7dSn5aCkR2BnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vortek\\Desktop\\-6-T-50-1-21-master\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vortek\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
